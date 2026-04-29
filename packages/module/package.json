@@ -33,11 +33,11 @@
     "tag": "prerelease"
   },
   "dependencies": {
-    "@patternfly/react-code-editor": "^6.5.0-prerelease.53",
-    "@patternfly/react-core": "^6.5.0-prerelease.50",
-    "@patternfly/react-icons": "^6.5.0-prerelease.21",
-    "@patternfly/react-styles": "^6.5.0-prerelease.16",
-    "@patternfly/react-table": "^6.5.0-prerelease.51",
+    "@patternfly/react-code-editor": "^6.5.0-prerelease.67",
+    "@patternfly/react-core": "^6.5.0-prerelease.64",
+    "@patternfly/react-icons": "^6.5.0-prerelease.29",
+    "@patternfly/react-styles": "^6.5.0-prerelease.21",
+    "@patternfly/react-table": "^6.5.0-prerelease.67",
     "@segment/analytics-next": "^1.76.0",
     "clsx": "^2.1.0",
     "path-browserify": "^1.0.1",
@@ -66,8 +66,8 @@
   },
   "devDependencies": {
     "@octokit/rest": "^18.0.0",
-    "@patternfly/documentation-framework": "6.37.0",
-    "@patternfly/patternfly": "^6.5.0-prerelease.65",
+    "@patternfly/documentation-framework": "6.38.5",
+    "@patternfly/patternfly": "^6.5.0-prerelease.79",
     "@patternfly/patternfly-a11y": "^5.2.1",
     "@types/dom-speech-recognition": "^0.0.4",
     "@types/react": "^18.2.61",
